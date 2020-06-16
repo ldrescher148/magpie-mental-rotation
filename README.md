@@ -16,5 +16,5 @@ This experiment was built using _magpie.
 
 ## Running the experiment
 
-1. Online Link: https://mentalrotationtaskldrescher.netlify.app/
+1. Online Link: https://mentalrotationldrescher.netlify.app/
 2. Offline: Clone the repository, run npm install and open index.html.
